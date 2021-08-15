@@ -4,6 +4,6 @@ The purpose of this assignment's challenge was to help W.Avy understand the temp
 
 To do this we have considered temperatures between 2017-06-01 and 2017-06-30 for June and between 2016-12-01 and 2016-12-31 for December. Both results are stored in data frames for easy visualization.
 
-The min and max temperature for June ranges from 71 to 83 and for December it ranges from 60 to 78. This concludes that day time temperature remains on the higher 70s which is perfect for ice cream and surfing though out the year. 
+The min and max temperature for June ranges from 71 to 83, and the averages around 77. For December it ranges from 60 to 78 and averages around 71 which is quite warm. This concludes that day time temperature remains on the higher 70s which is perfect for ice cream and surfing though out the year. 
 
 
